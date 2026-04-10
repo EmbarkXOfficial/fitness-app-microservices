@@ -77,3 +77,9 @@ packages/
 
 # UiPath specific
 .settings/
+
+.nuget/
+.gradle/
+packages/
+build/
+target/
