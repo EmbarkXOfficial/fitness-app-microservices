@@ -69,3 +69,11 @@ Thumbs.db
 .env
 *.env
 secrets.properties
+
+# NuGet packages
+.nuget/
+packages/
+*.nupkg
+
+# UiPath specific
+.settings/
